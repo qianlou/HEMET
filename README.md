@@ -1,5 +1,5 @@
 # HEMET
-This code is for testing the inference latency of HE-friendly SquezzeNet.
+This code is for testing the inference latency of HE-friendly SqueezeNet.
 
 # How to Run
 
